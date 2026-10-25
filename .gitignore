@@ -1,0 +1,14 @@
+# --- 运行时依赖：由 fetch-ue4ss.ps1 下载，不纳入仓库 ---
+UE4SS/
+
+# --- 本地产物 / 隐私数据：永不提交 ---
+*.log
+*.dmp
+*.zip
+*.7z
+*.rar
+__pycache__/
+*.pyc
+.vs/
+.idea/
+tmp/
